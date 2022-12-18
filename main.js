@@ -123,7 +123,7 @@ window.addEventListener('scroll', scrollUp)
 
 /*Portfolio Swiper*/
 let swiper = new Swiper(".portfolio__container", {
-    cssMode: true,
+    /*cssMode: true,*/
     loop: true,
 
     navigation: {
