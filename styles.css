@@ -605,7 +605,7 @@ img {
 
 
 /*Media Queries*/
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 567px) {
     .container {
         margin-left: var(--mb-1);
         margin-right: var(--mb-1);
