@@ -124,7 +124,7 @@ img {
 
 
 .container {
-    max-width: 100%/*768px*/;
+    max-width: 768px;
     margin-left: var(--mb-1-5);
     margin-right: var(--mb-1-5);
 }
@@ -145,7 +145,7 @@ img {
 
 
 .nav {
-    max-width: 100%/*968px*/;
+    max-width: 968px;
     height: var(--header-height);
     display: flex;
     justify-content: space-between;
